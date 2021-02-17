@@ -1,6 +1,6 @@
 # git-ensure
 
-Ensure git status matches with conditions before preceding your workflow.
+Ensure git status matches with conditions before continuing your workflow.
 
 ## Usage
 
