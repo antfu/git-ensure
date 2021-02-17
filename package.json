@@ -1,6 +1,6 @@
 {
   "name": "git-ensure",
-  "version": "0.0.6",
+  "version": "0.1.0",
   "description": "Ensure git status before continuing.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
