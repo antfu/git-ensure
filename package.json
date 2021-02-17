@@ -1,7 +1,7 @@
 {
   "name": "git-ensure",
   "version": "0.0.6",
-  "description": "Ensure git status matches with conditions before continuing your workflow.",
+  "description": "Ensure git status before continuing.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
